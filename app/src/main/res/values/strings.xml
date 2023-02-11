@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">marat_uulu_daniyar_2of3month</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="increment">увеличить</string>
+    <string name="decrement">уменьшить</string>
+    <string name="send">отправить</string>
+    <string name="nothing">Ничего нету((</string>
+    <string name="Header">Считалочка</string>
+    <string name="counter">Считалочка!</string>
+</resources>
